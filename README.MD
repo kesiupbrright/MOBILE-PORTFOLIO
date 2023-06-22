@@ -4,7 +4,7 @@
 
   <br/>
 
-  <h1><b>PORFOLIO</b></h1>
+  <h1><b>MOBILE PORTFOLIO</b></h1>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 # 📖 Hello PORFOLIO <a name="about-project"></a>
 
-This is the first technical  PORFOLIO project it tests more on Git, GitHub, GitHub Workflow and Linters.
+This is the first technical  MOBILE PORTFOLIO project it tests more on Git, GitHub, GitHub Workflow and Linters.
 
 *[Hello-PORFOLIO]* is a HTML CSS project
 
